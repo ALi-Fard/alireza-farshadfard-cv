@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ali-fard.github.io/alireza-farshadfard-cv/sitemap.xml
